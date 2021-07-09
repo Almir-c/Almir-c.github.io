@@ -1,0 +1,226 @@
+body {
+   background-color: #242B33;
+   font-family: 'Comic Neue', cursive;
+}
+
+.navbar-nav {
+   margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+   margin: 20px;
+   color: rgb(98, 35, 245);
+}
+
+.info {
+   margin-top: 15%;
+   margin-bottom: 10%;
+   color: #D4C17F;
+}
+
+.cartoon {
+   margin-top: 100px;
+   margin-bottom: 200px;
+}
+
+.firstscreen {
+   background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242B33 92.19%), url(Rectangle.png) !important;
+   background: no-repeat;
+
+}
+
+.main {
+   color: rgba(36, 228, 241, 0.945);
+}
+
+.description img {
+   margin-bottom: 10%;
+}
+
+.description {
+   margin-top: 10%;
+   padding: 0 10%;
+}
+
+.body {
+   background-color: #242B33;
+}
+
+.form1 {
+   color: white;
+   margin-top: 3%;
+   padding: 10% 10%;
+}
+
+.kv-schr {
+   font-family: Playfair Display;
+   font-style: normal;
+   font-weight: bold;
+   margin-top: 60px;
+   margin-left: 2%;
+   color: #D4C17F;
+}
+
+.tx1 {
+   margin-top: -120px;
+   margin-left: 7%;
+   margin-bottom: 70px;
+}
+
+.pic1 img{
+   
+   padding: 0 25px;
+   width: 100%;
+   height: auto;
+}
+.pic1{
+   margin-bottom: 8%;
+}
+
+.pic2 img{
+   padding: 0 25px;
+   width: 100%;
+   height: auto;
+}
+
+.kv-schr2 {
+   font-family: Playfair Display;
+   font-style: normal;
+   font-weight: bold;
+   margin-top: 30px;
+   margin-left: 2%;
+   color: #D4C17F;
+
+   padding-top: 200px;
+
+   font-size: 36px;
+   line-height: 48px;
+}
+
+.call-to-action {
+   background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242B33 92.19%), url(Rectangle2.png) !important;
+   background: no-repeat;
+
+}
+
+.kv-schr3 {
+   color: whitesmoke;
+   font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+   margin-left: 25px;
+}
+
+.form-control {
+   background-color: rgba(190, 184, 184, 0.295);
+   width: 275px;
+   margin-bottom: 25px;
+
+}
+
+.tx-act {
+   width: 290px;
+   color: whitesmoke;
+   font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+
+}
+
+.btn {
+   background-color: #D4C17F;
+   color: whitesmoke;
+   width: 275px;
+}
+
+.form-control::placeholder {
+   color: whitesmoke;
+}
+
+.rectangle3 {
+   margin-left: 5%;
+   margin-top: 30%;
+}
+
+.play {
+   margin-left: 45%;
+   margin-top: -350px;
+}
+
+.kv-schr4 {
+   font-family: Playfair Display;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 36px;
+   margin-left: 2%;
+   margin-top: 300px;
+   margin-bottom: 50px;
+   color: #D4C17F;
+}
+
+.rc {
+   margin-left: 2%;
+}
+
+.kv-schr5 {
+   font-family: Playfair Display;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 36px;
+   margin-left: 2%;
+   margin-top: 150px;
+   margin-bottom: 15px;
+   color: #D4C17F;
+}
+
+.clr {
+   color: whitesmoke;
+   font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+   margin-left: 8%;
+}
+
+.footer {
+   background-color: #2D343C;
+   margin-top: 200px;
+}
+
+.call-to-action-2 {
+   margin-bottom: 350px;
+}
+
+.logo__bottom {
+   font-family: 'PT Serif', serif;
+   font-family: 'Zen Tokyo Zoo', cursive;
+   color: whitesmoke;
+}
+
+.logo__top {
+   font-family: 'Zen Tokyo Zoo', cursive;
+   color: whitesmoke;
+}
+
+.clr2 {
+   color: whitesmoke;
+   font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+   list-style-type: none;
+}
+
+.clr3 {
+   color: #D4C17F;
+   font-family: Raleway;
+   font-style: normal;
+   font-weight: normal;
+   margin-top: -25px;
+   margin-left: 50px;
+   list-style-type: none;
+}
+
+.rw {
+   padding: 100px;
+}
